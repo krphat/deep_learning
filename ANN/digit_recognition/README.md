@@ -2,7 +2,7 @@
 
 ## Create Virtual Environments
 In the project, open Terminal and run the following command line: <br>
-**Create virtual environment:**: <br>
+**Create virtual environment**: <br>
 `python -m venv venv` <br>
 **Activate virtual environment**: <br>
 MacOS/Linux: `source venv/bin/activate` <br>
