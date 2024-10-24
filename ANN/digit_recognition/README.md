@@ -8,7 +8,7 @@ In the project, open Terminal and run the following command line: <br>
 MacOS/Linux: `source venv/bin/activate` <br>
 Windows: `venv\Scripts\activate.bat` <br>
 **Upgrade pip**: <br>
-`python -m pip install --upgrade pip` <br>
+`python.exe -m pip install --upgrade pip` <br>
 **Install Libraries**: <br>
 `pip install -r requirements.txt`
 
